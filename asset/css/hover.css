@@ -1,0 +1,4 @@
+.hover-box:hover .box-info_icon i {
+    color: var(--primery-color); /* Màu xanh */
+    transition: all 0.2s ease-in;
+}
