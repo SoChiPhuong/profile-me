@@ -160,7 +160,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 function openCV() {
   // Đường dẫn đến file cv.pdf
-  const cvUrl = 'https://www.canva.com/design/DAGZpYsyaNA/hWdAzrG3j4JtAyA4yGTvuw/edit?utm_content=DAGZpYsyaNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton';
+  const cvUrl = 'https://drive.google.com/file/d/1euH-yLf1p5sLCcF2cDLejQpJZPyaau5I/view?usp=sharing';
   // Mở file trong tab mới
   window.open(cvUrl, '_blank');
 }
