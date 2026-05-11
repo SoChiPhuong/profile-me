@@ -160,7 +160,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 function openCV() {
   // Đường dẫn đến file cv.pdf
-  const cvUrl = 'https://drive.google.com/file/d/18mm-_qKuhb6cBXqTgcbyxEdiN6v5m9__/view?usp=sharing';
+  const cvUrl = 'https://drive.google.com/file/d/1L-Y5jvZAw4O3yes0ToEUh6hd3pM2DdTX/view?usp=sharing';
   // Mở file trong tab mới
   window.open(cvUrl, '_blank');
 }
